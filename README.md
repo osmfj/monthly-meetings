@@ -56,3 +56,8 @@
 
 * 2019年9月4日
 * [記録](https://hackmd.io/hUwvky9oSG-GM5KAtktKaw)
+
+## 2019年10月
+
+* 2019年10月2日
+* [記録](https://hackmd.io/YdpeD4BCQvqzSvU_ejjj2g)
